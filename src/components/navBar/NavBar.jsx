@@ -10,18 +10,18 @@ const NavBar = () => {
 <div className='navbar'>
 
     <div className='logo'>
-
+        <img src='./src/assets/logoBuho.png' className='logonav'/>
     </div>
  
     <Menu>
   <MenuButton as={Button} rightIcon={<TiArrowSortedDown />}>
-    Productos
+    Variedades
   </MenuButton>
   <MenuList>
-    <MenuItem>Variedades</MenuItem>
-    <MenuItem>Historia</MenuItem>
-    <MenuItem>Fotos</MenuItem>
-    <MenuItem>Quienes Somos</MenuItem>
+    <MenuItem>Dorada Pampena</MenuItem>
+    <MenuItem>Kolsh</MenuItem>
+    <MenuItem>Golden</MenuItem>
+    <MenuItem>Irish Red</MenuItem>
   </MenuList>
 </Menu>
 
