@@ -10,7 +10,7 @@ const NavBar = () => {
 <div className='navbar'>
 
     <div className='logo'>
-        <img src='./src/assets/logoBuho.png' className='logonav'/>
+        <img src='./src/assets/logoBuho.png' className='logonav' alt='Logo Buho'/>
     </div>
  
     <Menu>

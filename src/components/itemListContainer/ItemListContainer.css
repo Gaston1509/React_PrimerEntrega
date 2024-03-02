@@ -1,14 +1,14 @@
 .titulo{
-    width: 50%;
+    width:40%;
     margin: 0 auto;
     padding-top: 20px;
     letter-spacing: 5px;
     color: rgb(84, 73, 73);
-    box-shadow: 10px 10px 5px -6px rgba(73, 69, 69, 0.75);
-    border-radius: 3px;
+    box-shadow: 8px 8px 5px -6px rgba(73, 69, 69, 0.75);
+    border-radius: 5px;
     text-align: center;
     margin-top: 5px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgb(216, 219, 210);
+    background-color: rgb(183, 237, 180);
 }

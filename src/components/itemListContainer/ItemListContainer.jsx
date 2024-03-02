@@ -2,11 +2,11 @@ import { Heading } from '@chakra-ui/react'
 import React from 'react'
 import './ItemListContainer.css'
 
-const ItemListContainer = ({tittle}) => {
+const ItemListContainer = ({title}) => {
   return (
     <div className='titulo'>
         <Heading>
-            {tittle}
+            {title}
         </Heading>
     </div>
   )

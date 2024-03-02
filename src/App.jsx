@@ -8,7 +8,7 @@ function App() {
   return (
     <ChakraProvider>
       <NavBar />
-      <ItemListContainer tittle='Cerveza Buho Artesanal' />
+      <ItemListContainer title='Cerveza Búho Artesanal' />
     </ChakraProvider>
     
   )
