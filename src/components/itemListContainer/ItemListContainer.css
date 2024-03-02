@@ -3,12 +3,12 @@
     margin: 0 auto;
     padding-top: 20px;
     letter-spacing: 5px;
-    color: rgb(84, 73, 73);
-    box-shadow: 8px 8px 5px -6px rgba(73, 69, 69, 0.75);
+    color: #544949;
+    box-shadow: 8px 8px 5px -6px rgba(30, 29, 29, 0.75);
     border-radius: 5px;
     text-align: center;
     margin-top: 5px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgb(183, 237, 180);
+    background-color: #9dea99;
 }
